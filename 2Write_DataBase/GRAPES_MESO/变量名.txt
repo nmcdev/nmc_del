@@ -1,0 +1,749 @@
+Convective precipitation (water) ::: acpcp ::: Convective precipitation ::: surface ::: 0
+Large scale precipitation (non-convective) ::: ncpcp ::: Large scale precipitation ::: surface ::: 0
+unknown ::: unknown ::: Total precipitation ::: surface ::: 0
+Total snowfall ::: asnow ::: Total snowfall ::: surface ::: 0
+Temperature ::: t ::: Temperature ::: surface ::: 0
+Surface net thermal radiation ::: str ::: Net long wave radiation flux ::: surface ::: 0
+Surface net solar radiation ::: ssr ::: Upward short-wave radiation flux ::: surface ::: 0
+Heat flux ::: hflux ::: 24 ::: surface ::: 0
+unknown ::: unknown ::: 229 ::: surface ::: 0
+Orography ::: orog ::: Geopotential height ::: surface ::: 0
+Specific humidity ::: q ::: Specific humidity ::: heightAboveGround ::: 2
+2 metre temperature ::: 2t ::: Temperature ::: heightAboveGround ::: 2
+10 metre U wind component ::: 10u ::: u-component of wind ::: heightAboveGround ::: 10
+10 metre V wind component ::: 10v ::: v-component of wind ::: heightAboveGround ::: 10
+Planetary boundary layer height ::: hpbl ::: Planetary boundary layer height ::: surface ::: 0
+unknown ::: unknown ::: 224 ::: surface ::: 0
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 1000
+10 metre U wind component ::: 10u ::: u-component of wind ::: heightAboveGround ::: 10
+10 metre V wind component ::: 10v ::: v-component of wind ::: heightAboveGround ::: 10
+unknown ::: unknown ::: 224 ::: surface ::: 0
+unknown ::: unknown ::: 3 ::: surface ::: 0
+unknown ::: unknown ::: 15 ::: heightAboveGroundLayer ::: 2000
+unknown ::: unknown ::: Richardson number ::: surface ::: 0
+unknown ::: unknown ::: Richardson number ::: unknown ::: 0
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 1000
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 975
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 950
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 925
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 900
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 850
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 800
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 750
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 700
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 650
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 600
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 550
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 500
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 450
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 400
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 350
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 300
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 275
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 250
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 225
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 200
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 175
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 150
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 125
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 100
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 70
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 50
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 30
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 20
+Geopotential Height ::: gh ::: Geopotential height ::: isobaricInhPa ::: 10
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 1000
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 975
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 950
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 925
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 900
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 850
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 800
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 750
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 700
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 650
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 600
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 550
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 500
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 450
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 400
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 350
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 300
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 275
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 250
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 225
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 200
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 175
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 150
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 125
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 100
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 70
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 50
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 30
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 20
+Temperature ::: t ::: Temperature ::: isobaricInhPa ::: 10
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 1000
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 975
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 950
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 925
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 900
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 850
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 800
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 750
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 700
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 650
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 600
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 550
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 500
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 450
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 400
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 350
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 300
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 275
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 250
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 225
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 200
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 175
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 150
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 125
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 100
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 70
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 50
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 30
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 20
+U component of wind ::: u ::: u-component of wind ::: isobaricInhPa ::: 10
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 1000
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 975
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 950
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 925
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 900
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 850
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 800
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 750
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 700
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 650
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 600
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 550
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 500
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 450
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 400
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 350
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 300
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 275
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 250
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 225
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 200
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 175
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 150
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 125
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 100
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 70
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 50
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 30
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 20
+V component of wind ::: v ::: v-component of wind ::: isobaricInhPa ::: 10
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 1000
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 975
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 950
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 925
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 900
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 850
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 800
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 750
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 700
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 650
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 600
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 550
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 500
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 450
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 400
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 350
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 300
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 275
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 250
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 225
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 200
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 175
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 150
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 125
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 100
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 70
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 50
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 30
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 20
+Geometric vertical velocity ::: wz ::: Vertical velocity [geometric] ::: isobaricInhPa ::: 10
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 1000
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 975
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 950
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 925
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 900
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 850
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 800
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 750
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 700
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 650
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 600
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 550
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 500
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 450
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 400
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 350
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 300
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 275
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 250
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 225
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 200
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 175
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 150
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 125
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 100
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 70
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 50
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 30
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 20
+Specific humidity ::: q ::: Specific humidity ::: isobaricInhPa ::: 10
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 1000
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 975
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 950
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 925
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 900
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 850
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 800
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 750
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 700
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 650
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 600
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 550
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 500
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 450
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 400
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 350
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 300
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 275
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 250
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 225
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 200
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 175
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 150
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 125
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 100
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 70
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 50
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 30
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 20
+Cloud mixing ratio ::: clwmr ::: Cloud mixing ratio ::: isobaricInhPa ::: 10
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 1000
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 975
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 950
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 925
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 900
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 850
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 800
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 750
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 700
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 650
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 600
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 550
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 500
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 450
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 400
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 350
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 300
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 275
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 250
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 225
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 200
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 175
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 150
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 125
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 100
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 70
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 50
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 30
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 20
+Rain mixing ratio ::: rwmr ::: Rain mixing ratio ::: isobaricInhPa ::: 10
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 1000
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 975
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 950
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 925
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 900
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 850
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 800
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 750
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 700
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 650
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 600
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 550
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 500
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 450
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 400
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 350
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 300
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 275
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 250
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 225
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 200
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 175
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 150
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 125
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 100
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 70
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 50
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 30
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 20
+Ice water mixing ratio ::: icmr ::: Ice water mixing ratio ::: isobaricInhPa ::: 10
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 1000
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 975
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 950
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 925
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 900
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 850
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 800
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 750
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 700
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 650
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 600
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 550
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 500
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 450
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 400
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 350
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 300
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 275
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 250
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 225
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 200
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 175
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 150
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 125
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 100
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 70
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 50
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 30
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 20
+Snow mixing ratio ::: snmr ::: Snow mixing ratio ::: isobaricInhPa ::: 10
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 1000
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 975
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 950
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 925
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 900
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 850
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 800
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 750
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 700
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 650
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 600
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 550
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 500
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 450
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 400
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 350
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 300
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 275
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 250
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 225
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 200
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 175
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 150
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 125
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 100
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 70
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 50
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 30
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 20
+Graupel (snow pellets) ::: grle ::: Graupel ::: isobaricInhPa ::: 10
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 1000
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 975
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 950
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 925
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 900
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 850
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 800
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 750
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 700
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 650
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 600
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 550
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 500
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 450
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 400
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 350
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 300
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 275
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 250
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 225
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 200
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 175
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 150
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 125
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 100
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 70
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 50
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 30
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 20
+Cloud cover ::: ccl ::: Cloud cover ::: isobaricInhPa ::: 10
+Temperature ::: t ::: Temperature ::: depthBelowLandLayer ::: 0
+Temperature ::: t ::: Temperature ::: depthBelowLandLayer ::: 0
+Temperature ::: t ::: Temperature ::: depthBelowLandLayer ::: 0
+Temperature ::: t ::: Temperature ::: depthBelowLandLayer ::: 1
+Specific humidity ::: q ::: Specific humidity ::: depthBelowLandLayer ::: 0
+Specific humidity ::: q ::: Specific humidity ::: depthBelowLandLayer ::: 0
+Specific humidity ::: q ::: Specific humidity ::: depthBelowLandLayer ::: 0
+Specific humidity ::: q ::: Specific humidity ::: depthBelowLandLayer ::: 1
+Surface pressure ::: sp ::: Pressure ::: surface ::: 0
+Pressure reduced to MSL ::: prmsl ::: Pressure reduced to MSL ::: meanSea ::: 100000
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 1000
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 975
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 950
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 925
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 900
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 850
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 800
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 750
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 700
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 650
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 600
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 550
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 500
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 450
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 400
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 350
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 300
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 275
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 250
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 225
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 200
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 175
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 150
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 125
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 100
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 70
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 50
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 30
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 20
+Relative humidity ::: r ::: Relative humidity ::: isobaricInhPa ::: 10
+2 metre relative humidity ::: 2r ::: Relative humidity ::: heightAboveGround ::: 2
+2 metre dewpoint temperature ::: 2d ::: Dew point temperature ::: heightAboveGround ::: 2
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 1000
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 975
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 950
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 925
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 900
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 850
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 800
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 750
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 700
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 650
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 600
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 550
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 500
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 450
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 400
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 350
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 300
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 275
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 250
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 225
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 200
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 175
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 150
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 125
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 100
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 70
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 50
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 30
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 20
+Divergence ::: d ::: Relative divergence ::: isobaricInhPa ::: 10
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 1000
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 975
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 950
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 925
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 900
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 850
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 800
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 750
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 700
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 650
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 600
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 550
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 500
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 450
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 400
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 350
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 300
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 275
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 250
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 225
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 200
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 175
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 150
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 125
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 100
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 70
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 50
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 30
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 20
+Vorticity (relative) ::: vo ::: Relative vorticity ::: isobaricInhPa ::: 10
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 1000
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 975
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 950
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 925
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 900
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 850
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 800
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 750
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 700
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 650
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 600
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 550
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 500
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 450
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 400
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 350
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 300
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 275
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 250
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 225
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 200
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 175
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 150
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 125
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 100
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 70
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 50
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 30
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 20
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 10
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 1000
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 975
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 950
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 925
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 900
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 850
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 800
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 750
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 700
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 650
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 600
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 550
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 500
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 450
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 400
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 350
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 300
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 275
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 250
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 225
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 200
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 175
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 150
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 125
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 100
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 70
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 50
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 30
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 20
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 10
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 1000
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 975
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 950
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 925
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 900
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 850
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 800
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 750
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 700
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 650
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 600
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 550
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 500
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 450
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 400
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 350
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 300
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 275
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 250
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 225
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 200
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 175
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 150
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 125
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 100
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 70
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 50
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 30
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 20
+unknown ::: unknown ::: 224 ::: isobaricInhPa ::: 10
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 1000
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 975
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 950
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 925
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 900
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 850
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 800
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 750
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 700
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 650
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 600
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 550
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 500
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 450
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 400
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 350
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 300
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 275
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 250
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 225
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 200
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 175
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 150
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 125
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 100
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 70
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 50
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 30
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 20
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 10
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 1000
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 975
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 950
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 925
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 900
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 850
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 800
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 750
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 700
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 650
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 600
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 550
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 500
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 450
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 400
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 350
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 300
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 275
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 250
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 225
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 200
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 175
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 150
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 125
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 100
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 70
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 50
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 30
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 20
+Dew point temperature ::: dpt ::: Dew point temperature ::: isobaricInhPa ::: 10
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 1000
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 975
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 950
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 925
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 900
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 850
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 800
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 750
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 700
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 650
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 600
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 550
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 500
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 450
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 400
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 350
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 300
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 275
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 250
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 225
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 200
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 175
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 150
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 125
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 100
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 70
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 50
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 30
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 20
+unknown ::: unknown ::: Dew point depression ::: isobaricInhPa ::: 10
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 1000
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 975
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 950
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 925
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 900
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 850
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 800
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 750
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 700
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 650
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 600
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 550
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 500
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 450
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 400
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 350
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 300
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 275
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 250
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 225
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 200
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 175
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 150
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 125
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 100
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 70
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 50
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 30
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 20
+Pseudo-adiabatic potential temperature ::: papt ::: Pseudo-adiabatic potential temperature or equivalent potential temperature ::: isobaricInhPa ::: 10
+K index ::: kx ::: K index ::: meanSea ::: 100000
+Sweat index ::: sx ::: Sweat index ::: surface ::: 0
+unknown ::: unknown ::: Convective available potential energy ::: surface ::: 0
+unknown ::: unknown ::: Convective inhibition ::: surface ::: 0
+Parcel lifted index (to 500 hPa) ::: pli ::: Parcel lifted index ::: surface ::: 0
+unknown ::: unknown ::: 228 ::: surface ::: 0
+unknown ::: unknown ::: 224 ::: surface ::: 0
+Vertical speed shear ::: vwsh ::: Vertical speed shear ::: heightAboveGroundLayer ::: 0
+Vertical speed shear ::: vwsh ::: Vertical speed shear ::: heightAboveGroundLayer ::: 0
+Vertical speed shear ::: vwsh ::: Vertical speed shear ::: heightAboveGroundLayer ::: 0
+Best lifted index (to 500 hPa) ::: bli ::: Best lifted index ::: surface ::: 0
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 1000
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 975
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 950
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 925
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 900
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 850
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 800
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 750
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 700
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 650
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 600
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 550
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 500
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 450
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 400
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 350
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 300
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 275
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 250
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 225
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 200
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 175
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 150
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 125
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 100
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 70
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 50
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 30
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 20
+unknown ::: unknown ::: 225 ::: isobaricInhPa ::: 10
+Storm relative helicity ::: hlcy ::: Storm relative helicity ::: heightAboveGroundLayer ::: 0
+Storm relative helicity ::: hlcy ::: Storm relative helicity ::: heightAboveGroundLayer ::: 0
+unknown ::: unknown ::: 13 ::: surface ::: 0
+unknown ::: unknown ::: 239 ::: surface ::: 0
+unknown ::: unknown ::: 236 ::: surface ::: 0
+Total totals index ::: totalx ::: Total totals index ::: surface ::: 0
+unknown ::: unknown ::: 225 ::: surface ::: 0
+unknown ::: unknown ::: 226 ::: surface ::: 0
+unknown ::: unknown ::: 225 ::: surface ::: 0
+Precipitable water ::: pwat ::: Precipitable water ::: unknown ::: 0
+unknown ::: unknown ::: 228 ::: surface ::: 0
+unknown ::: unknown ::: 227 ::: surface ::: 0
